@@ -1,0 +1,12 @@
+[root]
+name = "asterias"
+version = "0.0.1"
+dependencies = [
+ "sdl2 0.0.13 (git+https://github.com/AngryLawyer/rust-sdl2.git)",
+]
+
+[[package]]
+name = "sdl2"
+version = "0.0.13"
+source = "git+https://github.com/AngryLawyer/rust-sdl2.git#f8a13ec41125f261188fa09de20db4070ec29ce0"
+

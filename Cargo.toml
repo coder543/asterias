@@ -1,0 +1,15 @@
+[package]
+
+name    = "asterias"
+version = "0.0.1"
+authors = [ "coder543" ]
+
+[lib]
+
+name = "asterias"
+path = "src/lib.rs"
+
+[dependencies.sdl2]
+
+git  = "https://github.com/AngryLawyer/rust-sdl2.git"
+
