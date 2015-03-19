@@ -7,7 +7,7 @@ authors = [ "coder543" ]
 [lib]
 
 name = "asterias"
-path = "src/lib.rs"
+path = "src/asterias/lib.rs"
 
 [dependencies.sdl2]
 
